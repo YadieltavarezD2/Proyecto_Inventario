@@ -35,6 +35,9 @@ Control de visualización: Microsoft ReportViewer
 <img width="638" height="331" alt="Clientes" src="https://github.com/user-attachments/assets/4b849745-3ed2-43b8-8d34-c1c1307c9404" />
 <img width="598" height="316" alt="Proveedores" src="https://github.com/user-attachments/assets/5645eeaf-56da-4f0d-a8a4-e6983b1e9e57" />
 <img width="643" height="335" alt="Usuarios" src="https://github.com/user-attachments/assets/89001e51-c33d-44d2-bd3c-d76f3b10f0ac" />
+<img width="638" height="340" alt="Almacen" src="https://github.com/user-attachments/assets/0a1288e0-88a2-42d4-98b0-548b4e51bd07" />
+<img width="635" height="335" alt="Supervisor" src="https://github.com/user-attachments/assets/c8d46566-445b-4569-818e-1ee25b1fc49b" />
+
 
 
 # Uso o Ejecución:

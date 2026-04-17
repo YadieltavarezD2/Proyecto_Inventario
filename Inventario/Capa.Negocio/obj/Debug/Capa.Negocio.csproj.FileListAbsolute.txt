@@ -1,0 +1,11 @@
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\bin\Debug\Capa.Datos.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\bin\Debug\Capa.Entidades.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\bin\Debug\Capa.Datos.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\bin\Debug\Capa.Entidades.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\obj\Debug\Capa.Negocio.csproj.AssemblyReference.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\obj\Debug\Capa.Negocio.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\obj\Debug\Capa.Neg.650074CE.Up2Date
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Negocio\obj\Debug\Capa.Negocio.pdb

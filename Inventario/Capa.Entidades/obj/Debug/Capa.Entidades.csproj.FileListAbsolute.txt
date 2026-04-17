@@ -1,0 +1,6 @@
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.AssemblyReference.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Entidades\obj\Debug\Capa.Entidades.pdb

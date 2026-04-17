@@ -1,0 +1,9 @@
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\bin\Debug\Capa.Datos.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\bin\Debug\Capa.Datos.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\bin\Debug\Capa.Entidades.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\bin\Debug\Capa.Entidades.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\obj\Debug\Capa.Datos.csproj.AssemblyReference.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\obj\Debug\Capa.Datos.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\obj\Debug\Capa.Datos.csproj.Up2Date
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\obj\Debug\Capa.Datos.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej2\Inventario\Capa.Datos\obj\Debug\Capa.Datos.pdb
